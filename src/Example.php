@@ -43,7 +43,7 @@ class Example extends RestoModule
     {
         return array(
             'message' => $params['message'],
-            'config' => $this->config
+            'options' => $this->options
         );
     }
 
