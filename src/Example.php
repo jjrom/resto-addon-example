@@ -35,7 +35,7 @@ class Example extends RestoModule
     }
 
     /**
-     * This public function is called by the r
+     * GET /example/:message (See config)
      * 
      * @param array $params : input parameters from query/path url
      */
