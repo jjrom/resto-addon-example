@@ -39,7 +39,7 @@ class Example extends RestoModule
      * 
      * @param array $params : input parameters from query/path url
      */
-    public function dummyFunction($params)
+    public function getDummy($params)
     {
         return array(
             'message' => $params['message'],
