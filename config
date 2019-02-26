@@ -1,6 +1,6 @@
 'Example' => array(
     'routes' => array(
-        array('GET', '/example/:message', false, 'Example::getDummy')
+        array('GET', '/example/{message}', false, 'Example::getDummy')
     ),
     'options' => array(
         'Dummy options' => 'You can pass options'
