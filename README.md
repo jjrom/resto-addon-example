@@ -1,3 +1,3 @@
-# resto-addons-example
+# resto-addon-example
 An example add-on for resto
 
