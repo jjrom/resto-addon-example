@@ -18,9 +18,9 @@
 /**
  * Example add-on for resto
  * 
- * [IMPORTANT] An add-on MUST extends RestoModule
+ * [IMPORTANT] An add-on MUST extends RestoAddOn
  */
-class Example extends RestoModule
+class Example extends RestoAddOn
 {
 
     /**
