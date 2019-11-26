@@ -24,6 +24,11 @@ class Example extends RestoAddOn
 {
 
     /**
+     * Add-on version
+     */
+    public $version = '1.0';
+    
+    /**
      * Constructor
      *
      * @param RestoContext $context
